@@ -6,15 +6,24 @@
 **Frontend Developer | Data Enthusiast | Exploring ML**
 
 ---
-<img src="https://www.svgrepo.com/show/353755/developer-activity.svg" width="100%" />
+<h2>👩‍💻 About Me</h2>
 
+<table>
+<tr>
+<td>
 
-## 👩‍💻 About Me
-- 🎓 B.Tech CSE Student
-- 🌱 Currently learning DSA and ML
-- 🛠️ Improving my frontend skills
-- 💻 Open Source Contributor
+- 🎓 B.Tech CSE Student  
+- 🌱 Currently learning DSA and ML  
+- 🛠️ Improving my frontend skills  
+- 💻 Open Source Contributor  
 - 🚀 Always excited to learn new things!
+
+</td>
+<td>
+  <img src="https://i.imgur.com/zgQ2C3p.png" alt="Anime Girl Coding" width="300"/>
+</td>
+</tr>
+</table>
 
 ---
 
