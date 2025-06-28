@@ -6,6 +6,8 @@
 **Frontend Developer | Data Enthusiast | Exploring ML**
 
 ---
+<img src="https://www.svgrepo.com/show/353755/developer-activity.svg" width="100%" />
+
 
 ## 👩‍💻 About Me
 - 🎓 B.Tech CSE Student
