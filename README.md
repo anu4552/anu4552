@@ -20,7 +20,8 @@
 
 </td>
 <td>
-  <img src="https://i.imgur.com/zgQ2C3p.png" alt="Anime Girl Coding" width="300"/>
+  ![AI Thinking](https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif)
+
 </td>
 </tr>
 </table>
