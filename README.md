@@ -35,7 +35,8 @@
 ## 🔧 Tech Stack
 
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -60,7 +61,8 @@
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-purple?style=flat)
 ![NLP](https://img.shields.io/badge/-NLP-brightgreen?style=flat)
 ![LLM](https://img.shields.io/badge/-LLM-black?style=flat)
-![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiBoZWlnaHQ9IjI0IiB3aWR0aD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjMDAwIiBjbGFzcz0ic3ZnLWNvbXBvbmVudCIvPjwvc3ZnPg==)
+![Ollama](https://img.shields.io/badge/Ollama-AI%20Model%20Runner-ff69b4?style=flat)
+
 
 
 
