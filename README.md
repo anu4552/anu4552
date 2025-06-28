@@ -20,7 +20,8 @@
 
 </td>
 <td>
-  ![AI Thinking](https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif)
+ ![Girl Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 </td>
 </tr>
